@@ -1,0 +1,10 @@
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/bin/Debug/netcoreapp2.0/WebClient.deps.json
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/bin/Debug/netcoreapp2.0/WebClient.runtimeconfig.json
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/bin/Debug/netcoreapp2.0/WebClient.runtimeconfig.dev.json
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/bin/Debug/netcoreapp2.0/WebClient.dll
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/bin/Debug/netcoreapp2.0/WebClient.pdb
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/obj/Debug/netcoreapp2.0/WebClient.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/obj/Debug/netcoreapp2.0/WebClient.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/obj/Debug/netcoreapp2.0/WebClient.AssemblyInfo.cs
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/obj/Debug/netcoreapp2.0/WebClient.dll
+/Users/administrator/Desktop/Workspaces/Mod1-CliSvr/WebClient/obj/Debug/netcoreapp2.0/WebClient.pdb
